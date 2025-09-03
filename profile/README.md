@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://directory-opus-manager.github.io/.github/">
-    <img src="https://img.shields.io/badge/Get_Directory_Opus-blue?style=for-the-badge&logo=windows" alt="Get Directory Opus"/>
+    <img src="https://img.shields.io/badge/Get_Directory_Opus-blue?style=for-the-badge&logo=github" alt="Get Directory Opus"/>
   </a>
 </p>
 
